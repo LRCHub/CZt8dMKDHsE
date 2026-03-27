@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "base_track": "狭心症",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-03-27T09:33:08.923092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "狭心症 - Kyoshinsho",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_狭心症_-_Kyoshinsho_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "狭心症 - Kyoshinsho",
+      "artist": "Radwimps",
+      "has_synced": false,
+      "path": "select/02_狭心症_-_Kyoshinsho_Radwimps.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "狭心症",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_狭心症_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "狭心症",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_狭心症_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "狭心症",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/localdb_01_狭心症_Mrs._GREEN_APPLE.lrc",
+      "repo_name": "-KhQIMnBgIg"
+    }
+  ]
+}
